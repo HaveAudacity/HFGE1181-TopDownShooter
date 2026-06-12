@@ -1,0 +1,3 @@
+C:\Users\Kamog\Desktop\HIGS1181-SA1\KamoMmusi_HFGE1181_SA1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+C:\Users\Kamog\Desktop\HIGS1181-SA1\KamoMmusi_HFGE1181_SA1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\FramePacing\CMakeLists.txt
+C:\Users\Kamog\Desktop\HIGS1181-SA1\KamoMmusi_HFGE1181_SA1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt
