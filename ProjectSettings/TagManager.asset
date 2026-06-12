@@ -9,6 +9,7 @@ TagManager:
   - player
   - Enemies
   - UI
+  - Enemy
   layers:
   - Default
   - TransparentFX
